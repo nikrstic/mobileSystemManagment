@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\MobileSoftC#\MobileSoftC#\bin\Debug\MobileSoftC#.exe.config
+C:\Users\user\source\repos\MobileSoftC#\MobileSoftC#\bin\Debug\MobileSoftC#.exe
+C:\Users\user\source\repos\MobileSoftC#\MobileSoftC#\bin\Debug\MobileSoftC#.pdb
+C:\Users\user\source\repos\MobileSoftC#\MobileSoftC#\obj\Debug\MobileSoftC#.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MobileSoftC#\MobileSoftC#\obj\Debug\MobileSoftC_.Properties.Resources.resources
+C:\Users\user\source\repos\MobileSoftC#\MobileSoftC#\obj\Debug\MobileSoftC#.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MobileSoftC#\MobileSoftC#\obj\Debug\MobileSoftC#.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MobileSoftC#\MobileSoftC#\obj\Debug\MobileSoftC#.exe
+C:\Users\user\source\repos\MobileSoftC#\MobileSoftC#\obj\Debug\MobileSoftC#.pdb
+C:\Users\user\source\repos\MobileSoftC#\MobileSoftC#\obj\Debug\MobileSoftC_.Login.resources
+C:\Users\user\source\repos\MobileSoftC#\MobileSoftC#\obj\Debug\MobileSoftC_.Splash.resources
+C:\Users\user\source\repos\MobileSoftC#\MobileSoftC#\obj\Debug\MobileSoftC_.Accessoires.resources
+C:\Users\user\source\repos\MobileSoftC#\MobileSoftC#\obj\Debug\MobileSoftC_.Mobile.resources
+C:\Users\user\source\repos\MobileSoftC#\MobileSoftC#\obj\Debug\MobileSoftC_.Selling.resources
+C:\Users\user\source\repos\MobileSoftC#\MobileSoftC#\obj\Debug\MobileSoftC_.Home.resources
